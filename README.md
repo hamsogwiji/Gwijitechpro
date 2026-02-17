@@ -13,7 +13,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/BscdfUpSmJY0OAOWfyPjNs">
+  <a href="https://chat.whatsapp.com/KpN2OngplV46O5f4Kro2ai?mode=gi_t">
     <img alt=Support weight="10" src="https://eliteprotech-store.vercel.app/img/repo.png"> 
     </p>
 <p align="center"> 
