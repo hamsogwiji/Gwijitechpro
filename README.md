@@ -19,7 +19,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 <p align="center"> 
     </p>
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BscdfUpSmJY0OAOWfyPjNs" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/KpN2OngplV46O5f4Kro2ai?mode=gi_t" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a align="center">
   <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029Vb6qx8rBFLgQDZg7TX3l" target="_blank">
