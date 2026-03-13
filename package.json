@@ -64,6 +64,6 @@
     "stream": "latest",
     "util": "latest",
     "wa-sticker-formatter": "latest",
-    "xmd-baileys": "^1.0.31"
+    "md-baileys": "^1.0.31"
   }
 }
