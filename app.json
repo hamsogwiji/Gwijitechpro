@@ -1,11 +1,11 @@
 
 {
-  "name": "BWM-XMD",
+  "name": "GWIJITECH-MD",
   "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable",
   "keywords": [
     "bot",
     "whatsapp",
-    "BWM-XMD",
+    "GWIJITECH-MD",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -25,7 +25,7 @@
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces. Ex: 2547123456797",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces. Ex: 254743710474",
       "required": true
     },
     "DATABASE_URL": {
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "Your bot name",
-      "value": "BWM XMD",
+      "value": "GWIJITECH MD",
       "required": false
     },
     "PREFIX": {
@@ -49,7 +49,7 @@
     },
     "PACKNAME": {
       "description": "Sticker pack name",
-      "value": "BWM XMD",
+      "value": "GWIJITECH MD",
       "required": false
     },
     "TIMEZONE": {
@@ -59,7 +59,7 @@
     },
     "AUTHOR": {
       "description": "Bot author name",
-      "value": "Ibrahim Adams",
+      "value": "HAMSO GWIJI",
       "required": false
     },
     "DEVICE_MODE": {
@@ -85,16 +85,16 @@
     "ANTI_DELETE": {
       "description": "Anti-delete feature: on or off",
       "value": "on",
-      "required": false
+      "required": true
     },
     "ANTI_LINK": {
-      "description": "Anti-link feature: off, warn, delete, or remove",
-      "value": "off",
-      "required": false
+      "description": "Anti-link feature: on, warn, delete, or remove",
+      "value": "on",
+      "required": true
     },
     "WARN_LIMIT": {
       "description": "Number of warnings before removal (for warn mode)",
-      "value": "3",
+      "value": "6",
       "required": false
     },
     "ANTI_TAG": {
@@ -115,11 +115,11 @@
     "AUTO_STATUS_VIEW": {
       "description": "Auto-view status: on or off",
       "value": "on",
-      "required": false
+      "required": true
     },
     "AUTO_STATUS_LIKE": {
       "description": "Auto-like status: on or off",
-      "value": "off",
+      "value": "on",
       "required": false
     },
     "AUTO_STATUS_REPLY": {
@@ -129,7 +129,7 @@
     },
     "STATUS_REPLY_MSG": {
       "description": "Auto-reply message for status views",
-      "value": "Nice status! Viewed by BWM-XMD Bot",
+      "value": "Nice status! Viewed by GWIJITECH-MD Bot",
       "required": false
     },
     "STATUS_LIKE_EMOJIS": {
@@ -163,13 +163,13 @@
       "required": false
     },
     "PRESENCE_PRIVATE": {
-      "description": "Presence in private chats: off, online, typing, or recording",
-      "value": "off",
+      "description": "Presence in private chats: on, online, typing, or recording",
+      "value": "on",
       "required": false
     },
     "PRESENCE_GROUP": {
-      "description": "Presence in group chats: off, online, typing, or recording",
-      "value": "off",
+      "description": "Presence in group chats: on, online, typing, or recording",
+      "value": "on",
       "required": false
     },
     "BOT_URL": {
