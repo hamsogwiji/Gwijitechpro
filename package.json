@@ -25,14 +25,14 @@
     "GWIJITECH-MD",
     "whatsapp",
     "whatsapp-bot",
-    "Ibrahimadams"
+    "Hamsogwiji"
   ],
   "author": "Hamsogwiji",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "latest",
     "@hapi/boom": "latest",
-    "@whiskeysockets/baileys": "npm:xmd-baileys@latest",
+    "@whiskeysockets/baileys": "npm:md-baileys@latest",
     "adm-zip": "latest",
     "axios": "^1.2.5",
     "body-parser": "latest",
