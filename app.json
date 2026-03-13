@@ -17,7 +17,7 @@
   ],
   "website": "https://github.com/Bwmxmd254/BWM-XMD-GO#readme",
   "repository": "https://github.com/Bwmxmd254/BWM-XMD-GO.git",
-  "logo": "https://i.imgur.com/dAtHp2k.jpeg",
+  "logo": "https://files.catbox.moe/d837en.png",
   "success_url": "/",
   "env": {
     "SESSION": {
@@ -60,7 +60,7 @@
     "AUTHOR": {
       "description": "Bot author name",
       "value": "HAMSO GWIJI",
-      "required": false
+      "required": true
     },
     "DEVICE_MODE": {
       "description": "Device mode: iPhone (plain text) or Android (full features with buttons)",
@@ -174,7 +174,7 @@
     },
     "BOT_URL": {
       "description": "Comma-separated list of menu image/video URLs",
-      "value": "https://on.bwmxmd.co.ke/veksnu.jpg,https://on.bwmxmd.co.ke/ge01u0.jpg,https://on.bwmxmd.co.ke/ztb02d.jpg",
+      "value": "https://files.catbox.moe/d837en.png",
       "required": false
     },
     "MENU_TOP_LEFT": {
