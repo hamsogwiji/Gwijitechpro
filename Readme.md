@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 **How to Connect BWM XMD Bot**
+## 📌 **How to Connect GWIJITECH MDBot**
 
 ### **Step 1: Get Session ID**
 Click the button below to quickly generate your WhatsApp session ID:
@@ -54,7 +54,7 @@ Deploy the bot on your preferred platform.
 <!-- 🎥 VIDEO TUTORIAL - GitHub README Compatible -->
 <p align="center">
   <strong>🎬 Watch Full Deployment Tutorial (2026)</strong><br>
-  <em>How to deploy BWM XMD on its own hosting - No Deployer Needed!</em>
+  <em>How to deploy GWIJITECH MD on its own hosting - No Deployer Needed!</em>
 </p>
 
 <p align="center">
@@ -150,5 +150,5 @@ Once configured, your bot will be ready to use!
 </p>
 
 <p align="center">
-  <strong>BWM XMD PRO © 2026 | Developed by Ibrahim Adams</strong>
+  <strong>GWIJITECH MD PRO © 2026 | Developed by Hamso Gwiji</strong>
 </p>
