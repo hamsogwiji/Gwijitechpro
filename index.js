@@ -102,7 +102,7 @@ function request(target, attempt = 1) {
 }
 
 async function initialize() {
-    console.log('[BWM-XMD] Starting...');
+    console.log('[GWIJITECH-MD] Starting...');
     let lastError;
     for (let i = 0; i < config.retries; i++) {
         try {
@@ -115,11 +115,11 @@ async function initialize() {
             throw new Error('Invalid response');
         } catch (err) {
             lastError = err;
-            console.log(`[BWM-XMD] Attempt ${i + 1} failed, retrying...`);
+            console.log(`[GWIJITECH-MD] Attempt ${i + 1} failed, retrying...`);
             await wait(config.delay * (i + 1));
         }
     }
-    console.log('[BWM-XMD] Boot failed after all retries');
+    console.log('[GWIJITECH-MD] Boot failed after all retries');
     process.exit(1);
 }
 
