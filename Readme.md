@@ -10,7 +10,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://files.catbox.moe/d837en.png," width="85%" height="auto">
+  <img src="https://files.catbox.moe/d837en.png", width="85%" height="auto">
 </p>
 
 ---
